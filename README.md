@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hola, soy Daniel Arranz! 👋</h1>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Hola, soy Daniel Arranz! 👋<br><br>Actualmente estoy cursando 2º de FP en Desarrollo de Aplicaciones Multiplataforma (DAM). Me encanta aprender y mejorar día a día mis dotes de programación. Mi objetivo es crecer laboralmente en el mundo de la programación y el desarrollo de aplicaciones, ya sean web como móviles.<br><br>🌍 Ubicación: Madrid, España<br>- 🎓 Formación:<br>  - Cursando 2º de FP en Desarrollo de Aplicaciones Multiplataforma<br>  - Grado superior en Acondicionamiento Físico</p>
+<p align="left">Actualmente estoy cursando 2º de FP en Desarrollo de Aplicaciones Multiplataforma (DAM). Me encanta aprender y mejorar día a día mis dotes de programación. Mi objetivo es crecer laboralmente en el mundo de la programación y el desarrollo de aplicaciones, ya sean web como móviles.<br><br>🌍 Ubicación: Madrid, España<br>- 🎓 Formación:<br>  - Cursando 2º de FP en Desarrollo de Aplicaciones Multiplataforma<br>  - Grado superior en Acondicionamiento Físico</p>
 
 ###
 
