@@ -1,4 +1,4 @@
-#<h2 align="center">Hola, soy Daniel Arranz! 👋</h2>
+<h1 align="center">Hola, soy Daniel Arranz! 👋</h1>
 
 ###
 
@@ -14,7 +14,12 @@
 
 ###
 
-<p align="left">🌟 Tecnologías y Aprendizaje:<br>🎓 A lo largo de mi formación, he aprendido y trabajado con JavaScript, Java, Spring Boot, SQL, PHP y sigo ampliando mis conocimientos.<br>📚 Actualmente, estoy profundizando en Vue.js para mejorar mis habilidades en el desarrollo frontend y construir aplicaciones más dinámicas e interactivas.<br>💻 Disfruto enfrentando nuevos desafíos, ya que cada reto es una oportunidad para mejorar y seguir creciendo como desarrolladora.<br>🚀 Me motiva seguir explorando nuevas tecnologías y metodologías de desarrollo para aportar soluciones innovadoras y eficientes en cada proyecto.</p>
+## 🌟 Tecnologías y Aprendizaje  
+
+- 🎓 A lo largo de mi formación, he aprendido y trabajado con **JavaScript, Java, Spring Boot, SQL, PHP** y sigo ampliando mis conocimientos.  
+- 📚 Actualmente, estoy profundizando en **Vue.js** para mejorar mis habilidades en el desarrollo frontend y construir aplicaciones más dinámicas e interactivas.  
+- 💻 Disfruto enfrentando nuevos desafíos, ya que cada reto es una oportunidad para mejorar y seguir creciendo como desarrolladora.  
+- 🚀 Me motiva seguir explorando nuevas tecnologías y metodologías de desarrollo para aportar soluciones innovadoras y eficientes en cada proyecto.  
 
 ###
 
